@@ -1,0 +1,35 @@
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\bin\Debug\ThreeX Main.exe.config
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\bin\Debug\ThreeX Main.exe
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\bin\Debug\ThreeX Main.pdb
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.AssemblyReference.cache
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX_Main.Form1.resources
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX_Main.Properties.Resources.resources
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.GenerateResource.cache
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.CoreCompileInputs.cache
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX M.943FD5B1.Up2Date
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.exe
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.pdb
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.Fody.CopyLocal.cache
+C:\Users\Tahmid Ahmed\source\repos\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.Fody.RuntimeCopyLocal.cache
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\System.Buffers.xml
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\System.Memory.xml
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.AssemblyReference.cache
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX_Main.Form1.resources
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX_Main.Form2.resources
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX_Main.Properties.Resources.resources
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.GenerateResource.cache
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.CoreCompileInputs.cache
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.Fody.CopyLocal.cache
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main.csproj.Fody.RuntimeCopyLocal.cache
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX M.943FD5B1.Up2Date
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\ThreeX Main v10.0.exe.config
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\ThreeX Main v10.0.exe
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\bin\Debug\ThreeX Main v10.0.pdb
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main v10.0.exe
+D:\Programming\C# Project\ThreeX Main\ThreeX Main\obj\Debug\ThreeX Main v10.0.pdb
